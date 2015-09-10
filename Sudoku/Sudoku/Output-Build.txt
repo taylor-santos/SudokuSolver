@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: Sudoku, Configuration: Debug Win32 ------
+1>  Sudoku.cpp
+1>  Sudoku.vcxproj -> c:\users\taylor\documents\visual studio 2013\Projects\Sudoku\Debug\Sudoku.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
